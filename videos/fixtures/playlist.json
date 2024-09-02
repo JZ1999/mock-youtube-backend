@@ -1,0 +1,10 @@
+[
+    {
+        "model": "videos.playlists",
+        "pk": 1,
+        "fields": {
+            "user": 1,
+            "video_ids": [1]
+        }
+    }
+]
